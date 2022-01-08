@@ -1,6 +1,6 @@
 {
     "name": "Agora Music Player",
-    "description": "A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls",
+    "description": "Top 1 Music bot for Telegram made by @agoraswamy_professor and @toxic_than_toxiest",
     "repository": "https://github.com/Agora-OS/YOUTUBE",
     "logo": "https://github.com/Agora-OS/YOUTUBE/raw/main/theme/logo.png",
     "stack": "container",
@@ -25,7 +25,7 @@
         "required": true
       },
       "PYROGRAM_SESSION": {
-        "description": "Pyrogram session string, get it from https://replit.com/@AsmSafone/genStr",
+        "description": "Pyrogram session string, get it from https://t.me/Agora_Spam_Official",
         "required": true
       },
       "SUDOERS": {
