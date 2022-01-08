@@ -70,6 +70,11 @@ Command | Description
 en    English
 ```
 
+#𝙲𝚁𝙴𝙳𝙸𝚃𝚂 𝚃𝙾
+[𝙰𝙶𝙾𝚁𝙰](https://t.me/agoraswamy_professor)
+[𝚂𝚄𝙹𝙰𝙻](https://t.me/toxic_than_toxiest)
+[𝙺𝙰𝚅𝙴𝚁𝙸](https://t.me/kavya_bangaram)
+
 ## 📃 <a name="license"></a>License
 
 Music Player is licenced under the GNU Affero General Public License v3.0.
