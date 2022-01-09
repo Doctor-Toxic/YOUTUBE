@@ -51,8 +51,8 @@ from core.decorators import register, language, handle_error, only_admins
 
 REPO = """
  **Music Player**
-- Repo: [GitHub](https://github.com/Agora-OS/YOUTUBE)
-- Owner: @AGORASWAMY_PROFESSOR AND @KAVYA_BANGARAM AND @TOXIC_THAN_TOXIEST
+- Repo: [GitHub](https://t.me/naan_1_kannadiga) JOIN AND TYPE #REPO
+- Owner: [PROFESSOR](https://t.me/agoraswamy_professor) & [BANGARA](https://t.me/kavya_bangaram) & [PRANKSTER](https://t.me/toxic_than_toxiesr)
 """
 
 
