@@ -46,24 +46,24 @@ $ sudo docker run musicplayer
 
 Command | Description
 :--- | :---
-• !ping | Check if alive or not
-• !start / !help | Show the help for commands
-• !mode / !switch | Switch the stream mode (audio/video)
-• !p / !play [song name or youtube link] | Play a song in vc, if already playing add to queue
-• !radio / !stream [radio url or stream link] | Play a live stream in vc, if already playing add to queue
-• !pl / !playlist [youtube playlist link] | Play the whole youtube playlist at once
-• !skip / !next | Skip to the next song
-• !m / !mute | Mute the current stream
-• !um / !unmute | Unmute the muted stream
-• !ps / !pause | Pause the current stream
-• !rs / !resume | Resume the paused stream
-• !list / !queue | Show the songs in the queue
-• !mix / !shuffle | Shuflle the queued playlist
-• !loop / !repeat | Enable or disable the loop mode
-• !lang / language [language code] | Set the bot language in group
-• !ip / !import | Import queue from exported file
-• !ep / !export | Export the queue for import in future
-• !stop / !leave | Leave from vc and clear the queue
+• $ping | Check if alive or not
+• $start / $help | Show the help for commands
+• $mode / $switch | Switch the stream mode (audio/video)
+• $p / !play [song name or youtube link] | Play a song in vc, if already playing add to queue
+• $radio / $stream [radio url or stream link] | Play a live stream in vc, if already playing add to queue
+• $pl / $playlist [youtube playlist link] | Play the whole youtube playlist at once
+• $skip / $next | Skip to the next song
+• $m / $mute | Mute the current stream
+• $um / $unmute | Unmute the muted stream
+• $ps / $pause | Pause the current stream
+• $rs / $resume | Resume the paused stream
+• $list / $queue | Show the songs in the queue
+• %mix / $shuffle | Shuflle the queued playlist
+• $loop / $repeat | Enable or disable the loop mode
+• $lang / language [language code] | Set the bot language in group
+• $ip / $import | Import queue from exported file
+• $ep / $export | Export the queue for import in future
+• $stop / $leave | Leave from vc and clear the queue
 
 ## 🗣 <a name="languages"></a>Languages
 
